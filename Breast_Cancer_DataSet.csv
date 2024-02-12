@@ -1,0 +1,322 @@
+﻿Patient_ID,Age,Gender,Tumour_Stage,Histology,ER status,PR status,HER2 status,Surgery_type,Patient_Status
+TCGA-D8-A1XD,36,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-EW-A1OX,43,F,II,Mucinous Carcinoma,Positive,Positive,Negative,Lumpectomy,Dead
+TCGA-A8-A079,69,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-D8-A1XR,56,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-BH-A0BF,56,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Dead
+TCGA-AO-A1KQ,84,M,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-D8-A73X,53,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-EW-A1P5,77,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-A8-A09A,40,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Positive,Other,Alive
+TCGA-S3-A6ZG,71,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-BH-A0EA,72,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Dead
+TCGA-AC-A8OR,75,F,I,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-A2-A0ES,52,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-C8-A8HQ,53,F,II,Mucinous Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-AO-A03V,41,F,I,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-A2-A0D4,37,F,II,Mucinous Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-EW-A1PA,59,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-BH-A0DE,62,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Dead
+TCGA-E2-A1B4,74,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-AC-A3HN,87,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-A8-A095,45,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-A2-A4S0,77,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-A7-A3J0,62,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-AC-A62Y,79,F,II,Mucinous Carcinoma,Positive,Positive,Positive,Modified Radical Mastectomy,Dead
+TCGA-A7-A5ZW,47,F,II,Mucinous Carcinoma,Positive,Positive,Negative,Lumpectomy,Dead
+TCGA-A2-A25C,50,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-D8-A1JC,59,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-A7-A4SB,56,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Lumpectomy,Alive
+TCGA-AR-A24S,61,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-D8-A4Z1,68,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Dead
+TCGA-A7-A26J,49,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-AC-A5XS,74,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-OL-A6VR,48,F,I,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-EW-A1PF,50,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-LL-A7SZ,49,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-BH-A18K,46,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Dead
+TCGA-AC-A3OD,68,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-BH-A8FY,87,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Dead
+TCGA-C8-A26Z,59,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-A2-A1G4,71,F,III,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-BH-A18F,50,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-E2-A1IG,45,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-AC-A2B8,84,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Dead
+TCGA-BH-A0BT,56,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-AO-A125,72,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Dead
+TCGA-A8-A07E,81,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-A8-A08A,89,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-A2-A0EX,46,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Lumpectomy,Alive
+TCGA-A8-A093,61,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-E2-A1L6,44,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-3C-AAAU,55,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-E2-A1IL,78,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-A2-A0CO,85,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Modified Radical Mastectomy,Alive
+TCGA-BH-A0E7,79,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-EW-A6SC,60,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-D8-A1X7,40,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-D8-A1XM,57,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-A1-A0SF,54,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-EW-A1J5,59,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-BH-A0AY,62,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-E2-A15G,76,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-A8-A09B,58,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-BH-A0HF,77,F,I,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-BH-A0GY,67,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Dead
+TCGA-BH-A0BD,47,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,Dead
+TCGA-E2-A1IF,74,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-A8-A08Z,76,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-D8-A146,57,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-AR-A252,50,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-D8-A1JJ,54,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Dead
+TCGA-C8-A274,63,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-GM-A2DO,54,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-BH-A0H6,82,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Dead
+TCGA-BH-A0H7,65,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-A8-A09T,68,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Dead
+TCGA-D8-A1JS,77,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-BH-A0B0,56,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-A8-A096,73,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,Dead
+TCGA-D8-A1XC,85,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-E2-A154,68,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-D8-A1JU,51,F,I,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-AR-A24W,55,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-B6-A40C,51,F,II,Mucinous Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-A8-A09Q,83,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Other,Alive
+TCGA-AN-A049,62,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Simple Mastectomy,Alive
+TCGA-E9-A54X,85,F,I,Mucinous Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-A8-A082,58,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-D8-A1X6,80,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-A2-A0YL,48,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Dead
+TCGA-A8-A09K,68,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,Dead
+TCGA-AO-A0JD,59,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-E2-A14Q,50,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-GM-A2DN,58,F,II,Mucinous Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-A2-A0T5,39,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-A7-A0CJ,57,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Lumpectomy,Alive
+TCGA-AN-A03Y,66,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-BH-A42V,41,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Modified Radical Mastectomy,Alive
+TCGA-A2-A0CZ,46,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Simple Mastectomy,Alive
+TCGA-A2-A0D3,42,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-E9-A6HE,45,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-D8-A27T,53,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-E2-A1IK,71,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-BH-A0B1,66,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Dead
+TCGA-BH-A0DX,62,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-EW-A1OY,63,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-OK-A5Q2,59,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-C8-A1HG,50,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-EW-A1J1,38,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-A2-A0CY,63,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-BH-A28O,50,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-AR-A0U3,59,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Dead
+TCGA-BH-A0AZ,47,F,III,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,Dead
+TCGA-E2-A15A,45,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Dead
+TCGA-C8-A12N,58,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Dead
+TCGA-BH-A0E2,49,F,III,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Dead
+TCGA-D8-A27P,64,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Dead
+TCGA-AO-A0J8,61,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-E2-A1IN,60,F,I,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-GM-A5PX,65,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-AO-A03R,57,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-A2-A0EV,80,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-A8-A09M,75,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-A8-A09V,51,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Dead
+TCGA-D8-A27K,47,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Dead
+TCGA-C8-A26V,47,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Dead
+TCGA-AO-A03M,29,F,I,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Dead
+TCGA-AN-A0FF,32,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Dead
+TCGA-EW-A1PE,56,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Dead
+TCGA-D8-A27I,58,F,III,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Dead
+TCGA-D8-A1XO,56,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Dead
+TCGA-EW-A1J6,70,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-D8-A1JP,73,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-LD-A7W6,54,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-A8-A07G,65,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-D8-A1JH,56,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-BH-A0E9,53,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-BH-A0B5,40,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Modified Radical Mastectomy,Alive
+TCGA-AR-A24M,38,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-E9-A227,42,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Lumpectomy,Alive
+TCGA-AO-A12H,69,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-BH-A2L8,45,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-BH-A0C1,61,F,III,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-A7-A26E,71,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-BH-A0DQ,42,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-5L-AAT0,42,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Modified Radical Mastectomy,Alive
+TCGA-A8-A06P,63,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-A8-A0A4,73,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-BH-AB28,53,F,III,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-AQ-A54O,51,M,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-C8-A273,29,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-A2-A1FZ,63,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Dead
+TCGA-LL-A6FQ,77,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-Z7-A8R6,46,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-A8-A07W,76,F,III,Infiltrating Lobular Carcinoma,Positive,Positive,Positive,Other,Dead
+TCGA-C8-A27A,48,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-AO-A126,39,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-A2-A4RX,67,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-A2-A0CV,41,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-BH-A18L,50,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Dead
+TCGA-D8-A1JE,62,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-A8-A086,59,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-AO-A0JA,36,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-GM-A2DL,50,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-AC-A3W6,90,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-AR-A1AK,70,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-E2-A1IU,60,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-AR-A0U2,47,F,III,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Dead
+TCGA-BH-A0HO,48,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-A7-A56D,84,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-D8-A1JI,54,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-EW-A1J2,50,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Dead
+TCGA-AQ-A7U7,55,F,III,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-C8-A12W,49,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-AC-A3BB,46,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-A8-A092,48,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-BH-A0DK,49,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-E2-A14T,52,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-A2-A1FV,74,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-D8-A1JD,41,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-BH-A0W7,49,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-A8-A0AD,83,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-A7-A3RF,79,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Lumpectomy,Alive
+TCGA-AR-A24V,52,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-AR-A1AN,46,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-AO-A03O,69,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Dead
+TCGA-A2-A0EW,53,F,III,Infiltrating Lobular Carcinoma,Positive,Positive,Positive,Simple Mastectomy,Alive
+TCGA-BH-A0DH,63,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Other,Alive
+TCGA-A8-A08O,45,F,III,Infiltrating Lobular Carcinoma,Positive,Positive,Positive,Other,Alive
+TCGA-W8-A86G,66,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-LD-A7W5,52,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Lumpectomy,Alive
+TCGA-E2-A15M,66,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-BH-A0BP,76,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-D8-A27L,49,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-E2-A153,51,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-AO-A03T,42,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-AO-A03N,59,F,II,Mucinous Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-D8-A141,40,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-A8-A08F,59,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-AC-A5XU,74,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-B6-A401,47,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-GM-A3XN,44,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-A2-A4RW,49,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-BH-A0DV,54,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-WT-AB44,77,F,I,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-A8-A0A2,66,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-A8-A07J,35,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-HN-A2OB,45,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-EW-A1IY,38,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-AO-A12B,63,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-A2-A4S3,59,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-AC-A6NO,43,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-A8-A07Z,85,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-D8-A1XB,62,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-BH-A0HQ,56,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-BH-A0HI,78,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-BH-A0DO,78,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-A2-A3KD,47,F,III,Infiltrating Lobular Carcinoma,Positive,Positive,Positive,Lumpectomy,Alive
+TCGA-BH-A0BA,51,F,III,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Dead
+TCGA-AN-A046,68,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Dead
+TCGA-A2-A0T7,51,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Modified Radical Mastectomy,Alive
+TCGA-E2-A15F,64,F,I,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-BH-A0DT,41,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-D8-A3Z5,54,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-AR-A1AS,54,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Dead
+TCGA-BH-A0EI,51,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-E2-A108,64,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-D8-A3Z6,56,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Dead
+TCGA-A8-A0A6,64,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-GM-A3XG,46,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-E2-A1L9,40,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Dead
+TCGA-EW-A1P3,48,F,II,Mucinous Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-BH-A0BO,54,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-AQ-A1H3,49,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-A8-A09D,47,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-A1-A0SD,59,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Lumpectomy,Alive
+TCGA-E9-A5FK,60,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Dead
+TCGA-GM-A3NY,72,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-A1-A0SE,56,F,I,Mucinous Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-A8-A07L,58,F,III,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-A2-A0CL,37,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Modified Radical Mastectomy,Alive
+TCGA-EW-A1PC,66,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Dead
+TCGA-BH-A0DS,71,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Dead
+TCGA-D8-A73U,88,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-AO-A0JF,68,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy,Dead
+TCGA-AR-A24Z,57,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Dead
+TCGA-A1-A0SQ,45,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Dead
+TCGA-AO-A12E,51,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-E9-A54Y,63,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-Z7-A8R5,61,F,III,Infiltrating Lobular Carcinoma,Positive,Positive,Positive,Other,Alive
+TCGA-BH-A0BJ,41,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-AO-A0JB,50,F,III,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Dead
+TCGA-BH-A0DP,60,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Dead
+TCGA-A8-A07F,65,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Dead
+TCGA-BH-A8G0,54,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Dead
+TCGA-A1-A0SI,52,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-D8-A1XU,56,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-BH-A18S,79,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Dead
+TCGA-A8-A0A1,84,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-D8-A1J8,77,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-GM-A2DM,57,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-EW-A1IX,48,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-A8-A0A9,80,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-AR-A1AV,68,M,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-BH-A0H0,69,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-A8-A09R,82,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-AR-A24H,65,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,Dead
+TCGA-BH-A0DI,63,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-E2-A1BC,63,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Simple Mastectomy,Alive
+TCGA-GI-A2C8,63,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Dead
+TCGA-AR-A24O,43,F,III,Infiltrating Lobular Carcinoma,Positive,Positive,Positive,Modified Radical Mastectomy,Alive
+TCGA-BH-A0BC,60,F,III,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-D8-A27V,62,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-EW-A2FV,39,F,III,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-EW-A1IZ,53,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-BH-A18N,88,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Dead
+TCGA-BH-A0HX,54,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-XX-A89A,68,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-C8-A1HM,74,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-A2-A4S2,62,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-XX-A899,46,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-A2-A4RY,46,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-A2-A0YI,62,F,I,Mucinous Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-E2-A10C,54,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-D8-A13Y,52,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-A2-A0CK,60,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Lumpectomy,Alive
+TCGA-E2-A15P,61,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-AR-A24R,45,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-BH-A5J0,63,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-A8-A06Q,63,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-A7-A3J1,63,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-A2-A0YH,53,F,III,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-A7-A6VX,68,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-A8-A08I,53,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-EW-A2FW,52,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-AO-A0JC,64,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-AO-A0J7,71,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-BH-A0BZ,59,F,III,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-EW-A423,75,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-A2-A04Y,53,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-A2-A0T6,50,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-A8-A06Y,66,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-AR-A2LN,65,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-LD-A66U,44,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-E2-A156,61,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-AO-A0JJ,54,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-E2-A14Z,64,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Alive
+TCGA-A2-A0SU,66,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-A7-A13G,79,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-BH-A0BR,59,F,I,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-BH-A0HU,52,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,Alive
+TCGA-AO-A1KP,77,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-AR-A2LQ,59,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-BH-A0BV,78,F,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,Alive
+TCGA-AO-A1KO,46,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Alive
+TCGA-E2-A1B5,46,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Dead
+TCGA-AR-A1AL,60,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,Dead
+TCGA-AN-A04A,36,F,III,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Simple Mastectomy,Dead
+TCGA-A8-A085,44,M,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,Dead
+TCGA-A1-A0SG,61,F,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Dead
+TCGA-A2-A0EU,79,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Lumpectomy,Dead
+TCGA-B6-A40B,76,F,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,Dead
